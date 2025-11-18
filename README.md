@@ -41,4 +41,3 @@ Certificar que todos os arquivos .py estão na pasta
 Abra o terminar nessa pasta
 Execute: phyton Main.py
 A saída mostrará: Criação dos eventos, Adição de convidados, fornecedores e tarefas, Ordenação das tarefas com diferentes estratégias, Saída formatada e organizada.
-<img width="753" height="510" alt="image" src="https://github.com/user-attachments/assets/03352c7e-7ccc-438c-803b-a9937faad1cb" />
