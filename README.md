@@ -44,9 +44,9 @@ Main.py = Execução e testes.
 
 Como executar o Projeto:
 
-Certificar que todos os arquivos .py estão na pasta
+Certificar que todos os arquivos.py estão na pasta
 
-Abra o terminar nessa pasta
+Abra o terminal na pasta do projeto (Main.py)
 
 Execute: phyton Main.py
 
