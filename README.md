@@ -36,10 +36,10 @@ Evento.py = Classe abstrata + subclasses
 Factory.py = Factory Pattern
 Main.py = Execução e testes
 
-Como executar o Projeto
-Certificar que todos os arquivos .py estão na pasta
-Abra o terminar nessa pasta
-Execute: phyton Main.py
+Como executar o Projeto:
+Certificar que todos os arquivos .py estão na pasta.
+Abra o terminar nessa pasta.
+Execute: phyton Main.py.
 A saída mostrará: Criação dos eventos, Adição de convidados, fornecedores e tarefas, Ordenação das tarefas com diferentes estratégias, Saída formatada e organizada.
 
 <img width="581" height="768" alt="1" src="https://github.com/user-attachments/assets/9010d499-3532-4d73-93c3-76c10a1d0b59" />
