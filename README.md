@@ -11,7 +11,7 @@ Controle de tarefas;
 Ordenação de tarefas utilizando Strategy;
 Criação dos eventos utilizando Factory.
 
-Pilares de POO
+Pilares de POO:
 
 Abstração: A classe Evento é abstrata e representa o conceito geral de qualquer tipo de evento.
 
