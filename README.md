@@ -17,11 +17,13 @@ Encapsulamento: Atributos e comportamentos pertencem a classes específicas, man
 Herança: Está presente nas classes Casamento, FestaInfantil e EventoCorporativo.
 Polimorfismo: Cada tipo de evento implementa o método descricao_tipo() de forma diferente.
 
-Padrões de Projeto usados
+Padrões de Projeto usados:
 Factory Pattern: O Factory Pattern é um padrão de projeto criacional usado quando queremos criar objetos sem expor diretamente a lógica de criação.
 Usado para criar automaticamente o tipo correto de evento. Arquivo: Factory.py
+
 Strategy: O Strategy Pattern é um padrão de projeto comportamental usado quando queremos trocar o comportamento de um método em tempo de execução, sem alterar o código da classe.
 Usado para ordenar tarefas de diferentes formas. Arquivo: Strategy.py
+
 Tipos de Strategy usados:
 Ordenar por descrição
 Ordenar por responsável
