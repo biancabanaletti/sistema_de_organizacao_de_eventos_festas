@@ -12,9 +12,13 @@ Ordenação de tarefas utilizando Strategy;
 Criação dos eventos utilizando Factory.
 
 Pilares de POO
+
 Abstração: A classe Evento é abstrata e representa o conceito geral de qualquer tipo de evento.
+
 Encapsulamento: Atributos e comportamentos pertencem a classes específicas, mantendo a organização e proteção.
+
 Herança: Está presente nas classes Casamento, FestaInfantil e EventoCorporativo.
+
 Polimorfismo: Cada tipo de evento implementa o método descricao_tipo() de forma diferente.
 
 Padrões de Projeto usados:
