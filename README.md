@@ -28,13 +28,13 @@ Ordenar por responsável
 Ordenar por status (pendente/concluída, true/false)
 
 Estrutura dos Arquivos
-Convidado.py = Classe Convidado
-Fornecedor.py = Classe Fornecedor
-Tarefa.py = Classe Tarefa
-Strategy.py = Strategy Pattern
-Evento.py = Classe abstrata + subclasses
-Factory.py = Factory Pattern
-Main.py = Execução e testes
+  Convidado.py = Classe Convidado
+  Fornecedor.py = Classe Fornecedor
+  Tarefa.py = Classe Tarefa
+  Strategy.py = Strategy Pattern
+  Evento.py = Classe abstrata + subclasses
+  Factory.py = Factory Pattern
+  Main.py = Execução e testes
 
 Como executar o Projeto:
 
