@@ -73,6 +73,4 @@ A saída mostrará: Criação dos eventos, Adição de convidados, fornecedores 
 
 Diagrama UML:
 
-
-
-
+<img width="1039" height="708" alt="diagramaUML" src="https://github.com/user-attachments/assets/ce71ff5b-fb8e-4bab-b14c-f1892f5ba4ab" />
