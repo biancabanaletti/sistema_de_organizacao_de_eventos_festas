@@ -69,7 +69,7 @@ Execute: phyton Main.py
 
 A saída mostrará: Criação dos eventos, Adição de convidados, fornecedores e tarefas, Ordenação das tarefas com diferentes estratégias, Saída formatada e organizada.
 
-<img width="626" height="835" alt="image" src="https://github.com/user-attachments/assets/f99a85ac-e815-460c-87b3-a3e00093d63e" />
+<img width="636" height="851" alt="image" src="https://github.com/user-attachments/assets/c748f3d2-2e4e-4e6a-9e4f-c1d989c9cd0a" />
 
 Diagrama UML:
 
