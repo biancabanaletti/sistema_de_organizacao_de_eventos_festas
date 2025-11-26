@@ -1,6 +1,6 @@
 # Sistema-de-Organizaçao-de-Eventos-e-Festas
 Este projeto foi desenvolvido para a avaliação final de TOO e demonstra de forma organizada os Pilares da Programação Oriendada a Objetos.
-É um sistema que consiste em organizar eventos e festas. Foram implementados o Factory Pattern, padrão adicional Singleton, UML de classes e aplicação dos pilares de POO.
+É um sistema que consiste em organizar eventos e festas. Foram implementados o Factory Pattern, padrão adicional Strategy, UML de classes e aplicação dos pilares de POO.
 
 Objetivo do Sistema
 Permite gerenciar e organizar diferentes tipos de eventos e festas, incluindo:
